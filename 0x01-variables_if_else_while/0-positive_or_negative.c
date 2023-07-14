@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d id %s\n", n, "0");
+		printf("%d id %s\n", n, "zero");
 	}
 	return (0);
 }
